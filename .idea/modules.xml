@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/e3_content.iml" filepath="$PROJECT_DIR$/e3_content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3_content_interface/e3_content_interface.iml" filepath="$PROJECT_DIR$/e3_content_interface/e3_content_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3_content_service/e3_content_service.iml" filepath="$PROJECT_DIR$/e3_content_service/e3_content_service.iml" />
+    </modules>
+  </component>
+</project>
